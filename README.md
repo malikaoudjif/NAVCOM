@@ -1,3 +1,6 @@
-# Réaliser le circuit imprimé
-imprimer les deux fichiers Top+Bottom dans un papier calque
+# Make PCB
+Print circuits
+## links
+https://www.open-electronics.org/welcome-to-the-arduino-mrf24j40-wireless-shield/
+
 
